@@ -1,0 +1,50 @@
+
+.container h1{
+    color: #fff;
+}
+.container span{
+    color: #FF073a;
+    text-shadow: 2px 1px 8px #FF073a;
+}
+.container-fluid h1{
+    color: #fff;
+}
+.container-fluid span{
+    color: #FF073a;
+    text-shadow: 2px 1px 8px #FF073a;
+}
+.card{
+    color: #fff;
+    margin-bottom: 40px;
+    box-shadow: 2px 2px 20px rgb(197, 24, 24);
+}
+.card:hover{
+    box-shadow: 2px 2px 20px rgb(232, 231, 231); 
+    border: 2px solid black !important;
+}
+.cards{
+    background-color: black;
+}
+.imgheight{
+    height: 180px;
+}
+@media (max-width: 768px) {
+    .centr{
+        padding-left: 100px;
+        
+        
+    }
+    .imgheight{
+        height: 180px;
+    }
+    .card:hover{
+        box-shadow: 2px 2px 20px rgb(232, 231, 231); 
+        border: 2px solid black !important;
+    }
+}
+@media (max-width: 768px) {
+   .centr{
+    padding-left: 100px !important;
+   }
+}
+

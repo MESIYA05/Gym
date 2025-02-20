@@ -9,7 +9,7 @@ const Home = () => {
       <div className='container-fluid'>
         <div className='row'>
         <div className='col-lg-6 col-md-6 col-12 '>
-           <img src={img}  className=' img-fluid imgfit'/>
+           <img src={img}  className=' img-fluid imgfit' alt='homelogo'/>
            
           </div>
           <div className='col-lg-6 col-md-6 col-12 wak'>

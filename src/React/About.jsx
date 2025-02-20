@@ -10,7 +10,7 @@ const About = () => {
       <h1 className='text-center'>ABOUT <span>GYM</span></h1>
         <div className='row'>
         <div className='col-lg-6 col-md-6 col-12'>
-           <img src={img}  className=' img-fluid imgfit'/>
+           <img src={img}  className=' img-fluid imgfit' alt='about logo'/>
            
           </div>
           <div className='col-lg-6 col-md-6 col-12 texxx'>

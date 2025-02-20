@@ -32,7 +32,7 @@ const Contact = () => {
       <div className='row'>
 
         <div className='col-lg-6 col-md-6 col-12'>
-         <img src={imgh}  className='img-fluid ik'/>
+         <img src={imgh}  className='img-fluid ik' alt='contactimg'/>
         </div>
 
       <div className='col-lg-6 col-md-6 col-12 intt'>

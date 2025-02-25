@@ -43,7 +43,14 @@ h6{
 }
 @media (max-width: 768px) {
     .intt{
-        padding-left: 60px !important;
+        padding-left: 100px !important;
+        
+        
+    }
+}
+@media (max-width: 500px) {
+    .intt{
+        padding-left: 50px !important;
         
         
     }

@@ -47,4 +47,8 @@
     padding-left: 100px !important;
    }
 }
-
+@media (max-width: 500px) {
+    .centr{
+     padding-left: 80px !important;
+    }
+}
